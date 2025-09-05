@@ -67,5 +67,3 @@
 
 <hr>
 
-<p align="center">🚀 Projeto desenvolvido com dedicação para aplicar boas práticas em PHP.</p>
-
